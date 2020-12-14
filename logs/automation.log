@@ -1,0 +1,172 @@
+2020-09-29 11:58:47,316 :INFO :<module> :chrome browser launched bydefault...
+2020-09-29 11:58:47,317 :INFO :Test_Login_001 :------ test login 001 -------
+2020-09-29 11:58:47,317 :INFO :Test_Login_001 :------ verifying homepage title ------
+2020-09-29 11:59:05,594 :ERROR :Test_Login_001 :------ home page title test is failed ------
+2020-09-29 11:59:11,822 :INFO :<module> :chrome browser launched bydefault...
+2020-09-29 11:59:11,822 :INFO :Test_Login_001 :------ verifyin login test ------
+2020-09-29 11:59:20,084 :INFO :Test_Login_001 :--- application launched...
+2020-09-29 11:59:20,270 :INFO :Test_Login_001 :--- user id Entered : mngr285385
+2020-09-29 11:59:20,505 :INFO :Test_Login_001 :--- password Entered : bYdUqAd
+2020-09-29 11:59:23,664 :INFO :Test_Login_001 :--- clicked on login
+2020-09-29 11:59:23,771 :INFO :Test_Login_001 :------ login test is passed ------
+2020-09-29 12:03:34,394 :INFO :<module> :chrome browser launched bydefault...
+2020-09-29 12:03:34,395 :INFO :Test_Login_001 :------ test login 001 -------
+2020-09-29 12:03:34,395 :INFO :Test_Login_001 :------ verifying homepage title ------
+2020-09-29 12:04:03,757 :ERROR :Test_Login_001 :------ home page title test is failed ------
+2020-09-29 12:04:15,271 :INFO :<module> :chrome browser launched bydefault...
+2020-09-29 12:04:15,273 :INFO :Test_Login_001 :------ verifyin login test ------
+2020-09-29 12:04:24,378 :INFO :Test_Login_001 :--- application launched...
+2020-09-29 12:04:24,625 :INFO :Test_Login_001 :--- user id Entered : mngr285385
+2020-09-29 12:04:24,803 :INFO :Test_Login_001 :--- password Entered : bYdUqAd
+2020-09-29 12:04:29,380 :INFO :Test_Login_001 :--- clicked on login
+2020-09-29 12:04:29,493 :INFO :Test_Login_001 :------ login test is passed ------
+2020-09-29 12:06:04,517 :INFO :<module> :chrome browser launched bydefault...
+2020-09-29 12:06:04,518 :INFO :Test_Login_001 :------ test login 001 -------
+2020-09-29 12:06:04,518 :INFO :Test_Login_001 :------ verifying homepage title ------
+2020-09-29 12:06:33,335 :ERROR :Test_Login_001 :------ home page title test is failed ------
+2020-09-29 12:06:42,500 :INFO :<module> :chrome browser launched bydefault...
+2020-09-29 12:06:42,502 :INFO :Test_Login_001 :------ verifyin login test ------
+2020-09-29 12:06:51,703 :INFO :Test_Login_001 :--- application launched...
+2020-09-29 12:06:52,005 :INFO :Test_Login_001 :--- user id Entered : mngr285385
+2020-09-29 12:06:52,222 :INFO :Test_Login_001 :--- password Entered : bYdUqAd
+2020-09-29 12:06:56,669 :INFO :Test_Login_001 :--- clicked on login
+2020-09-29 12:06:56,765 :INFO :Test_Login_001 :------ login test is passed ------
+2020-09-29 12:16:33,576 :INFO :<module> :chrome browser launched bydefault...
+2020-09-29 12:16:33,599 :INFO :Test_Login_001 :------ test login 001 -------
+2020-09-29 12:16:33,599 :INFO :Test_Login_001 :------ verifying homepage title ------
+2020-09-29 12:16:53,395 :ERROR :Test_Login_001 :------ home page title test is failed ------
+2020-09-29 12:16:59,170 :INFO :<module> :chrome browser launched bydefault...
+2020-09-29 12:16:59,172 :INFO :Test_Login_001 :------ verifyin login test ------
+2020-09-29 12:17:10,097 :INFO :Test_Login_001 :--- application launched...
+2020-09-29 12:17:10,367 :INFO :Test_Login_001 :--- user id Entered : mngr285385
+2020-09-29 12:17:10,649 :INFO :Test_Login_001 :--- password Entered : bYdUqAd
+2020-09-29 12:17:13,482 :INFO :Test_Login_001 :--- clicked on login
+2020-09-29 12:17:13,576 :INFO :Test_Login_001 :------ login test is passed ------
+2020-09-30 11:35:11,016 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 11:35:11,046 :INFO :Test_Login_001 :------ test login 001 -------
+2020-09-30 11:35:11,046 :INFO :Test_Login_001 :------ verifying homepage title ------
+2020-09-30 11:35:29,345 :ERROR :Test_Login_001 :------ home page title test is failed ------
+2020-09-30 11:35:35,781 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 11:35:35,782 :INFO :Test_Login_001 :------ verifyin login test ------
+2020-09-30 11:35:43,391 :INFO :Test_Login_001 :--- application launched...
+2020-09-30 11:35:43,568 :INFO :Test_Login_001 :--- user id Entered : mngr285385
+2020-09-30 11:35:43,861 :INFO :Test_Login_001 :--- password Entered : bYdUqAd
+2020-09-30 11:35:49,771 :INFO :Test_Login_001 :--- clicked on login
+2020-09-30 11:35:49,848 :INFO :Test_Login_001 :------ login test is passed ------
+2020-09-30 11:36:22,181 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 11:36:22,182 :INFO :Test_Login_001 :------ test login 001 -------
+2020-09-30 11:36:22,182 :INFO :Test_Login_001 :------ verifying homepage title ------
+2020-09-30 11:36:35,226 :INFO :Test_Login_001 :------ home page title test is passed ------
+2020-09-30 11:36:41,867 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 11:36:41,867 :INFO :Test_Login_001 :------ verifyin login test ------
+2020-09-30 11:36:52,065 :INFO :Test_Login_001 :--- application launched...
+2020-09-30 11:36:52,248 :INFO :Test_Login_001 :--- user id Entered : mngr285385
+2020-09-30 11:36:52,463 :INFO :Test_Login_001 :--- password Entered : bYdUqAd
+2020-09-30 11:36:55,256 :INFO :Test_Login_001 :--- clicked on login
+2020-09-30 11:36:55,333 :INFO :Test_Login_001 :------ login test is passed ------
+2020-09-30 12:04:52,532 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 12:04:52,533 :INFO :Test_Login_001 :------Open browser test------
+2020-09-30 12:04:59,704 :INFO :Test_Login_001 :------ open browser test passed ------
+2020-09-30 12:05:06,482 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 12:05:06,483 :INFO :Test_Login_001 :------ test login 001 -------
+2020-09-30 12:05:06,483 :INFO :Test_Login_001 :------ verifying homepage title ------
+2020-09-30 12:05:16,571 :INFO :Test_Login_001 :------ home page title test is passed ------
+2020-09-30 12:05:22,558 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 12:05:22,559 :INFO :Test_Login_001 :------ verifyin login test ------
+2020-09-30 12:05:33,830 :INFO :Test_Login_001 :--- application launched...
+2020-09-30 12:05:34,063 :INFO :Test_Login_001 :--- user id Entered : mngr285385
+2020-09-30 12:05:36,256 :INFO :Test_Login_001 :--- password Entered : bYdUqAd
+2020-09-30 12:05:36,415 :INFO :Test_Login_001 :--- clicked on login
+2020-09-30 12:12:43,780 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 12:12:43,781 :INFO :Test_Login_001 :------Open browser test------
+2020-09-30 12:12:49,405 :INFO :Test_Login_001 :------ open browser test passed ------
+2020-09-30 12:12:56,456 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 12:12:56,457 :INFO :Test_Login_001 :------ test login 001 -------
+2020-09-30 12:12:56,457 :INFO :Test_Login_001 :------ verifying homepage title ------
+2020-09-30 12:13:07,875 :INFO :Test_Login_001 :------ home page title test is passed ------
+2020-09-30 12:13:14,263 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 12:13:14,264 :INFO :Test_Login_001 :------ verifyin login test ------
+2020-09-30 12:13:20,494 :INFO :Test_Login_001 :--- application launched...
+2020-09-30 12:13:20,714 :INFO :Test_Login_001 :--- user id Entered : mngr285385
+2020-09-30 12:13:20,961 :INFO :Test_Login_001 :--- password Entered : bYdUqAd
+2020-09-30 12:13:23,910 :INFO :Test_Login_001 :--- clicked on login
+2020-09-30 12:13:23,964 :INFO :Test_Login_001 :------ login test is passed ------
+2020-09-30 12:40:14,860 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 12:40:14,861 :INFO :Test_Login_001 :------Open browser test------
+2020-09-30 12:40:23,484 :INFO :Test_Login_001 :------ open browser test passed ------
+2020-09-30 12:40:30,384 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 12:40:30,384 :INFO :Test_Login_001 :------ test login 001 -------
+2020-09-30 12:40:30,385 :INFO :Test_Login_001 :------ verifying homepage title ------
+2020-09-30 12:40:42,280 :INFO :Test_Login_001 :------ home page title test is passed ------
+2020-09-30 12:40:49,186 :INFO :<module> :chrome browser launched bydefault...
+2020-09-30 12:40:49,188 :INFO :Test_Login_001 :------ verifyin login test ------
+2020-09-30 12:40:56,349 :INFO :Test_Login_001 :--- application launched...
+2020-09-30 12:40:56,671 :INFO :Test_Login_001 :--- user id Entered : mngr285385
+2020-09-30 12:40:57,034 :INFO :Test_Login_001 :--- password Entered : bYdUqAd
+2020-09-30 12:41:01,065 :INFO :Test_Login_001 :--- clicked on login
+2020-09-30 12:41:01,100 :INFO :Test_Login_001 :------ login test is passed ------
+2020-10-01 15:17:08,801 :INFO :<module> :Chrome browser launched...
+2020-10-01 15:17:08,910 :INFO :TestLoginDDT_001 :****** TestLoginDDT_001 started ******
+2020-10-01 15:17:08,911 :INFO :TestLoginDDT_001 :****** verifying login ddt test ******
+2020-10-01 15:27:01,632 :INFO :<module> :Chrome browser launched...
+2020-10-01 15:27:01,654 :INFO :TestLoginDDT_001 :****** TestLoginDDT_001 started ******
+2020-10-01 15:27:01,654 :INFO :TestLoginDDT_001 :****** verifying login ddt test ******
+2020-10-01 15:27:15,777 :INFO :TestLoginDDT_001 :------Passed------
+2020-10-01 17:17:21,119 :INFO :<module> :Chrome browser launched...
+2020-10-01 17:17:21,120 :INFO :TestLoginDDT_001 :****** TestLoginDDT_001 started ******
+2020-10-01 17:17:21,121 :INFO :TestLoginDDT_001 :****** verifying login ddt test ******
+2020-10-01 17:17:35,602 :INFO :TestLoginDDT_001 :------Passed------
+2020-10-01 17:21:51,416 :INFO :<module> :Chrome browser launched...
+2020-10-01 17:21:51,417 :INFO :TestLoginDDT_001 :****** TestLoginDDT_001 started ******
+2020-10-01 17:21:51,418 :INFO :TestLoginDDT_001 :****** verifying login ddt test ******
+2020-10-01 17:22:01,392 :INFO :TestLoginDDT_001 :------Passed------
+2020-10-01 17:24:01,480 :INFO :<module> :Chrome browser launched...
+2020-10-01 17:24:01,483 :INFO :TestLoginDDT_001 :****** TestLoginDDT_001 started ******
+2020-10-01 17:24:01,483 :INFO :TestLoginDDT_001 :****** verifying login ddt test ******
+2020-10-01 17:24:22,776 :INFO :TestLoginDDT_001 :------Passed------
+2020-10-05 16:57:43,504 :INFO :<module> :chrome browser launched bydefault...
+2020-10-05 16:57:43,534 :INFO :Test_Login_001 :------Open browser test------
+2020-10-05 16:57:50,087 :INFO :Test_Login_001 :------ open browser test passed ------
+2020-10-05 16:57:59,263 :INFO :<module> :chrome browser launched bydefault...
+2020-10-05 16:57:59,264 :INFO :Test_Login_001 :------ test login 001 -------
+2020-10-05 16:57:59,265 :INFO :Test_Login_001 :------ verifying homepage title ------
+2020-10-05 16:58:28,638 :INFO :Test_Login_001 :------ home page title test is passed ------
+2020-10-05 16:58:35,485 :INFO :<module> :chrome browser launched bydefault...
+2020-10-05 16:58:35,486 :INFO :Test_Login_001 :------ verifyin login test ------
+2020-10-05 16:58:39,536 :INFO :Test_Login_001 :--- application launched...
+2020-10-05 16:58:39,813 :INFO :Test_Login_001 :--- user id Entered : mngr285385
+2020-10-05 16:58:40,010 :INFO :Test_Login_001 :--- password Entered : bYdUqAd
+2020-10-05 16:58:42,315 :INFO :Test_Login_001 :--- clicked on login
+2020-10-05 16:58:42,361 :INFO :Test_Login_001 :------ login test is passed ------
+2020-10-05 16:59:55,259 :INFO :<module> :chrome browser launched bydefault...
+2020-10-05 16:59:55,262 :INFO :TestLoginDDT_001 :****** TestLoginDDT_001 started ******
+2020-10-05 16:59:55,263 :INFO :TestLoginDDT_001 :****** verifying login ddt test ******
+2020-10-05 17:00:02,202 :INFO :TestLoginDDT_001 :------Passed------
+2020-10-07 15:30:38,446 :INFO :<module> :opera browser launched...
+2020-10-07 15:30:38,589 :INFO :TestLoginDDT_001 :****** TestLoginDDT_001 started ******
+2020-10-07 15:30:38,590 :INFO :TestLoginDDT_001 :****** verifying login ddt test ******
+2020-10-07 15:30:57,359 :INFO :TestLoginDDT_001 :------Passed------
+2020-10-07 15:35:35,374 :INFO :<module> :chrome browser launched bydefault...
+2020-10-07 15:35:35,375 :INFO :TestLoginDDT_001 :****** TestLoginDDT_001 started ******
+2020-10-07 15:35:35,375 :INFO :TestLoginDDT_001 :****** verifying login ddt test ******
+2020-10-07 15:35:44,558 :INFO :TestLoginDDT_001 :------Passed------
+2020-10-13 13:28:13,054 :INFO :<module> :chrome browser launched bydefault...
+2020-10-13 13:28:13,054 :INFO :<module> :chrome browser launched bydefault...
+2020-10-13 13:28:13,560 :INFO :TestLoginDDT_001 :****** TestLoginDDT_001 started ******
+2020-10-13 13:28:13,560 :INFO :TestLoginDDT_001 :****** verifying login ddt test ******
+2020-10-13 13:28:21,828 :INFO :TestLoginDDT_001 :------Passed------
+2020-10-13 13:31:50,992 :INFO :<module> :chrome browser launched bydefault...
+2020-10-13 13:31:50,992 :INFO :<module> :chrome browser launched bydefault...
+2020-10-13 13:31:50,993 :INFO :TestLoginDDT_001 :****** TestLoginDDT_001 started ******
+2020-10-13 13:31:50,993 :INFO :TestLoginDDT_001 :****** verifying login ddt test ******
+2020-10-13 13:32:00,116 :INFO :TestLoginDDT_001 :------Passed------
+2020-10-13 13:46:07,931 :INFO :<module> :chrome browser launched bydefault...
+2020-10-13 13:46:07,931 :INFO :<module> :chrome browser launched bydefault...
+2020-10-13 13:46:07,964 :INFO :TestLoginDDT_001 :****** TestLoginDDT_001 started ******
+2020-10-13 13:46:07,965 :INFO :TestLoginDDT_001 :****** verifying login ddt test ******
+2020-10-13 13:46:16,538 :INFO :TestLoginDDT_001 :------Passed------
+2020-10-13 13:50:25,414 :INFO :<module> :chrome browser launched bydefault...
+2020-10-13 13:50:25,414 :INFO :<module> :chrome browser launched bydefault...
+2020-10-13 13:50:25,415 :INFO :TestLoginDDT_001 :****** TestLoginDDT_001 started ******
+2020-10-13 13:50:25,416 :INFO :TestLoginDDT_001 :****** verifying login ddt test ******
+2020-10-13 13:50:44,420 :INFO :TestLoginDDT_001 :------Passed------
