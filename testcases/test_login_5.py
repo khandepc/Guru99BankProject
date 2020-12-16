@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-driver= webdriver.Firefox(executable_path="../drivers/geckodriver.exe")
+driver= webdriver.Firefox(executable_path="./drivers/geckodriver.exe")
 driver.maximize_window()
 driver.implicitly_wait(10)
 

@@ -59,10 +59,10 @@ class Test_Login_001:
         self.log.info("--- password Entered : "+self.password)
         self.lp.click_on_login()
         self.log.info("--- clicked on login")
-        self.msg=self.driver.find_element_by_xpath("//tr[@class='heading3']/td").text
+        self.msg=self.driver.find_element_by_xpath("//body").text
 
         #if self.msg == "Manger Id : mngr285385":
-        if self.msg == "Manger Id :"+" "+self.user_name:
+        if "Manger Id :"+" "+self.user_name in self.msg:
             assert True
             self.log.info("------ login test is passed ------")
             self.driver.close()
